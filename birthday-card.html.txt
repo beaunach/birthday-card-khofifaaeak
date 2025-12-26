@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Happy Birthday Khofifa</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fff0f6;
+            color: #4e4e4e;
+            margin: 20px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 10px;
+        }
+        h1 {
+            text-align: center;
+            color: #e91e63;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .section {
+            background-color: #fff;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 10px #ffd1dc;
+        }
+        .caption {
+            font-style: italic;
+            margin-top: 10px;
+            margin-bottom: 15px;
+            color: #bf4f65;
+            text-align: center;
+        }
+        audio {
+            display: block;
+            margin: 20px auto;
+            outline: none;
+            width: 100%;
+            max-width: 400px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy birthday Khofifaa 💕</h1>
+
+    <div class="section">
+        <p>Sorry bgt telaat huhuhuu, yang penting doanya ttp adaa yah</p>
+
+        <img src="photo1.jpg" alt="Photo 1 - Our first photo berdua" />
+        <p class="caption">Hehe kayanya ini our first photo berdua deh...</p>
+
+        <img src="photo2.jpg" alt="Photo 2" />
+        <p>
+            OMG U TURN INTO 19 YEARS OLDD OTW KEPALA DUA<br/>
+            - <br/>
+            First of all I wanna say thank you udah hadir di masa SMA-KU, I was so grateful for having you and some friends at that time. kamu tau sendiri seberapa aku struggle karena suatu Hal, aku beneran berterima kasih kamu selalu nemenin aku, ttp sabar buat nunggu aku selama 3 taun, makasih temen berkembangku🤍.
+        </p>
+
+        <p>
+            Apa kabar khofifa? semoga dalam keadaan baik yh…. aku gatau kamu yang sekarang gimana, (misal kamu masih sama…) selalu inget yah that you’re doing great no matter how people look at you, jangan pernah nyalahin diri kamu sendiri misal sesuatu ga sejalan dengan ekspektasi kamu, jangan pernah berubah demi orang lain, tetep being sweetest khofifa yang aku kenal yaaa
+        </p>
+
+        <img src="photo3.jpg" alt="Photo 3" />
+        <p>
+            WISHES FOR YOU🤩<br/>
+            semoga kamu panjang umur, sehat selalu, selalu dalam lindungan Allah, makin deket dgn Allah, wish u all the best (awal awal template sih), semoga kamu balik jadi khofifa yang aku kenal yaa which means not low profile as back then, selalu post anything what u want, SEMOGA SEMUA KEINGINAN KM TERWUJUD YAA, semoga di 2026 ini bakal jadi your golden year yah, salah satunya MASUK PTN (UI ATAU UNS AS YOU WANT) JURUSAN BAHASA MANDARIN, pokonya keluar dari statistika. AYO KITA BERJUANG BRG, semoga km selalu dikelilingi orang orang yang positive n sayang sm kamu, POKONYA SEMOGA SEGALA DOA KM TERIJABAH SEMUA….I LOVE YOU KHOFIFAAAAAA (Mmf udh lama ga long text jd kaya dikit bgt yah)
+        </p>
+    </div>
+
+    <!-- Audio Player -->
+    <audio controls>
+        <source src="your-birthday-song.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+    </audio>
+
+</body>
+</html>
